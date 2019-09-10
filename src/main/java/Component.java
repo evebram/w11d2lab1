@@ -11,7 +11,7 @@ public Component(String make, String model, int volume){
 }
 
 public String PowerOn(String component){
-    return component + "has been turned on.";
+    return component + " has been turned on.";
 }
 
 public void volumeUp(){
