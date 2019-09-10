@@ -1,7 +1,7 @@
 public class Radio extends Component {
 
-    public Radio(String make, String model){
-        super(make, model);
+    public Radio(String make, String model, int volume){
+        super(make, model, volume);
     }
 
     public String Tune(){
